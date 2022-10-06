@@ -9,6 +9,7 @@ const LoaderComponent = () => (
     <Row>
       <Col>
         <Spinner animation="border" />
+        Please Wait...
       </Col>
     </Row>
   </Container>

@@ -11,7 +11,7 @@ import { FormLabelGroupComponent } from '../../components/FormLabelGroup';
 import { API_BASE_URL } from '../../constant/stringConstant';
 
 const CoinDetailsScreen = memo(() => {
-  const [coinDetails, updateCoinDetails] = useState(null);
+  const [coinDetails, updateCoinDetails] = useState({});
   //show loader- loader can handle with middleware and redux globally in App
   const [loading, updateLoading] = useState(true);
   //read coin id to get details

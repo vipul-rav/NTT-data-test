@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormLabelGroupComponent should render 1`] = `
+<div>
+  <div
+    class="row"
+  >
+    <label
+      class="form-label col-form-label col-sm-2"
+    >
+      <storng>
+        test
+      </storng>
+    </label>
+    <div
+      class="col"
+    >
+      <label
+        class="form-label col-form-label col-sm-10"
+      >
+        test
+      </label>
+    </div>
+  </div>
+</div>
+`;

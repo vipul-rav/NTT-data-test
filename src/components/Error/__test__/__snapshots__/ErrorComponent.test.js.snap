@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorComponent should render 1`] = `
+<div>
+  <div>
+    Child
+  </div>
+</div>
+`;
+
+exports[`ErrorComponent should render with Error 1`] = `
+<div>
+  <div>
+    <h2>
+      There is technical error.
+    </h2>
+  </div>
+</div>
+`;
